@@ -1,0 +1,26 @@
+[
+    {
+        "title": "Workout Dumbell 20KG",
+        "category": "Sports",
+        "price": 3599,
+        "image": "https://delbingeorge.github.io/shopedapi/image/sports/dumbel.png"
+    },
+    {
+        "title": "NBA Basketball Standart Size",
+        "category": "Sports",
+        "price": 3499.0,
+        "image": "https://delbingeorge.github.io/shopedapi/image/sports/basketball.png"
+    },
+    {
+        "title": "Premium Sports Shoes Unisex",
+        "category": "Sports",
+        "price": 5500.0,
+        "image": "https://delbingeorge.github.io/shopedapi/image/sports/shoe.png"
+    },
+    {
+        "title": "Adidas Sports Shoe for Men",
+        "category": "Sports",
+        "price": 1599.0,
+        "image": "https://delbingeorge.github.io/shopedapi/image/sports/adidas.png"
+    }
+]
