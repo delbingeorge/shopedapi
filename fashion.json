@@ -1,0 +1,26 @@
+[
+    {
+        "title": "Mens Full Sleves Shirt ",
+        "category": "Fashion",
+        "price": 3599,
+        "image": "https://delbingeorge.github.io/shopedapi/image/fashion/dressone.png"
+    },
+    {
+        "title": "Girls Fashion Yellow Dress",
+        "category": "Fashion",
+        "price": 999.0,
+        "image": "https://delbingeorge.github.io/shopedapi/image/gadgets/dresstwo.png"
+    },
+    {
+        "title": "Violet Wedding Dress for Women",
+        "category": "Fashion",
+        "price": 19000.0,
+        "image": "https://delbingeorge.github.io/shopedapi/image/gadgets/dressthree.png"
+    },
+    {
+        "title": "Red Dress for Women",
+        "category": "Fashion",
+        "price": 122599.0,
+        "image": "https://delbingeorge.github.io/shopedapi/image/gadgets/dressfour.png"
+    }
+]
