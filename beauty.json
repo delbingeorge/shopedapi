@@ -9,18 +9,18 @@
         "title": "AXE Body Spray",
         "category": "Fashion",
         "price": 499.0,
-        "image": "https://delbingeorge.github.io/shopedapi/image/gadgets/headphoneone.png"
+        "image": "https://delbingeorge.github.io/shopedapi/image/beauty/axebody.png"
     },
     {
         "title": "Vichy Ideal Soleil",
         "category": "Fashion",
         "price": 500.0,
-        "image": "https://delbingeorge.github.io/shopedapi/image/gadgets/airpods.png"
+        "image": "https://delbingeorge.github.io/shopedapi/image/beauty/airpods.png"
     },
     {
         "title": "Sojourn Get Sculptant",
         "category": "Fashion",
         "price": 1599.0,
-        "image": "https://delbingeorge.github.io/shopedapi/image/gadgets/sojourn.png"
+        "image": "https://delbingeorge.github.io/shopedapi/image/beauty/vichycream.png"
     }
 ]
