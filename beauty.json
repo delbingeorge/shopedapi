@@ -1,0 +1,26 @@
+[
+    {
+        "title": "AirBrush Flawless Foundation",
+        "category": "Fashion",
+        "price": 3299,
+        "image": "https://delbingeorge.github.io/shopedapi/image/beauty/airbrush.png"
+    },
+    {
+        "title": "AXE Body Spray",
+        "category": "Fashion",
+        "price": 499.0,
+        "image": "https://delbingeorge.github.io/shopedapi/image/gadgets/headphoneone.png"
+    },
+    {
+        "title": "Vichy Ideal Soleil",
+        "category": "Fashion",
+        "price": 500.0,
+        "image": "https://delbingeorge.github.io/shopedapi/image/gadgets/airpods.png"
+    },
+    {
+        "title": "Sojourn Get Sculptant",
+        "category": "Fashion",
+        "price": 1599.0,
+        "image": "https://delbingeorge.github.io/shopedapi/image/gadgets/sojourn.png"
+    }
+]
