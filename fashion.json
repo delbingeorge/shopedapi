@@ -9,18 +9,18 @@
         "title": "Girls Fashion Yellow Dress",
         "category": "Fashion",
         "price": 999.0,
-        "image": "https://delbingeorge.github.io/shopedapi/image/gadgets/dresstwo.png"
+        "image": "https://delbingeorge.github.io/shopedapi/image/fashion/dresstwo.png"
     },
     {
         "title": "Violet Wedding Dress for Women",
         "category": "Fashion",
         "price": 19000.0,
-        "image": "https://delbingeorge.github.io/shopedapi/image/gadgets/dressthree.png"
+        "image": "https://delbingeorge.github.io/shopedapi/image/fashion/dressthree.png"
     },
     {
         "title": "Red Dress for Women",
         "category": "Fashion",
         "price": 122599.0,
-        "image": "https://delbingeorge.github.io/shopedapi/image/gadgets/dreefour.png"
+        "image": "https://delbingeorge.github.io/shopedapi/image/fashion/dreefour.png"
     }
 ]
