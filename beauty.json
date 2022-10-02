@@ -15,12 +15,12 @@
         "title": "Vichy Ideal Soleil",
         "category": "Fashion",
         "price": 500.0,
-        "image": "https://delbingeorge.github.io/shopedapi/image/beauty/airpods.png"
+        "image": "https://delbingeorge.github.io/shopedapi/image/beauty/vichycream.png"
     },
     {
         "title": "Sojourn Get Sculptant",
         "category": "Fashion",
         "price": 1599.0,
-        "image": "https://delbingeorge.github.io/shopedapi/image/beauty/vichycream.png"
+        "image": "https://delbingeorge.github.io/shopedapi/image/beauty/sojourn.png"
     }
 ]
